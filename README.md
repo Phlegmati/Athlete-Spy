@@ -27,7 +27,7 @@ A simple commandline tool for extracting and saving keypoints of a human pose fr
 
 - Clone repository
 
-        $ git clone [link]
+        $ git clone https://github.com/Phlegmati/Athlete-Spy
 
 - Installing dependencies with Conan
 
