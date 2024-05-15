@@ -22,12 +22,20 @@ A simple commandline tool for extracting and saving keypoints of a human pose fr
 - Conan package manager
 
         $ pip install conan
+  
+    (Hint: If not installed globally, add the scripts directory to path enviroment variable)
 
+        %USERPROFILE%\AppData\Local\Packages\%PYTHON_VERSION%\local-packages\%PYTHON_VERSION%\scripts
+  
 #### Installation
 
 - Clone repository
 
         $ git clone https://github.com/Phlegmati/Athlete-Spy
+
+- Create conan build profile
+
+        $ conan profile detect
 
 - Installing dependencies with Conan
 
